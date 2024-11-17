@@ -1,3 +1,3 @@
 list1=[12,15,13,14,15]
-print(list1)
-print(list is)
+print("List is  ",list1)
+
